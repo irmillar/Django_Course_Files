@@ -1,0 +1,20 @@
+body{
+  background: url(https://assets.sealink.com.au/images/stradbroke/image-gallery/_homepageBanner/Main-Beach-DK-web.jpg);
+  
+}
+
+div{
+  background-color: blue;
+  border-color: orange;
+  border-width: 5px;
+  border-style: dotted;
+}
+
+p{
+  color: yellow
+}
+
+span{
+  background: red;
+  color: black
+}
